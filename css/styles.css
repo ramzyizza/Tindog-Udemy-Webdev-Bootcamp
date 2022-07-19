@@ -1,0 +1,122 @@
+
+#title{
+    background-color: #ff4c68;
+}
+
+
+
+h1 {  
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;
+    color: white;
+    margin-left: 2rem;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo-atas{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+#tombolAndroid{
+    margin-left: 10px;
+}
+
+#tombolApple{
+    margin-left: 2rem;
+}
+.navbar{
+    padding-bottom: 4rem;
+
+}
+
+.nav-item{
+    margin: 10px 10px;
+    font-weight: 400;
+}
+
+.tombol{
+    margin: 5px 3px 5px 0px;
+}
+
+
+.title-image{
+    width: 60%;
+    transform: rotate(30deg);
+}
+
+#features{
+    padding: 100px;
+}
+
+.fa-solid{
+    color: #ef8172;
+    font-size: 75px;
+    margin: 10% 40%;
+}
+.fa-solid:hover{
+    color: #ff4c68;
+    transition: 500ms;
+} 
+
+h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+.feature-text{
+    text-align: center;
+    color: #8f8f8f;
+}
+
+.carousel-inner{
+    padding: 7% 15%;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#foto-carousel{
+    width: 10%;
+    border-radius: 100%;
+    margin: 1rem;
+}
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding: 20px;
+}
+
+.press-image{
+    width: 15%;
+    margin: 20px 15px;
+}
+
+#pricing{
+    padding: 100px 150px;
+}
+
+#pricing-text{
+    margin-bottom: 50px;
+}
+
+.card-body{
+    text-align: center;
+}
